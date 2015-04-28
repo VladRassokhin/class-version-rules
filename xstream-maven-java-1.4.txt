@@ -3,5 +3,5 @@
 ;
 
 - => 
-1.4 => xstream-distribution/target/libs/
+1.4 => xstream-distribution/target/libs
 
