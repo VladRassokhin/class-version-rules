@@ -2,8 +2,5 @@
 ; For building XStream against Java 1.4
 ;
 
-1.4 => xstream/target/
-1.4 => xstream-hibernate/target/
-1.4 => xstream-benchmark/target/
-1.4 => xstream-distribution/target/
+1.4 => xstream-distribution/target/libs/
 
