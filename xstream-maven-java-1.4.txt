@@ -2,9 +2,11 @@
 ; For building XStream against Java 1.4
 ;
 
-- => 
-1.4 => xstream/target/*.jar
-1.4 => xstream-hibernate/target/*.jar
-1.4 => xstream-benchmark/target/*.jar
-1.4 => xstream-distribution/target/libs/*.zip
+;- =>
+;1.4 => xstream/target/*.jar
+;1.4 => xstream-hibernate/target/*.jar
+;1.4 => xstream-benchmark/target/*.jar
+;1.4 => xstream-distribution/target/libs/*.zip
+; Should be run in xstream-distribution/target/libs
+1.4 =>
 
