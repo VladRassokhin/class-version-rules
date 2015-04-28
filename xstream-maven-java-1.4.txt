@@ -3,5 +3,8 @@
 ;
 
 - => 
-1.4 => xstream-distribution/target/libs
+1.4 => xstream/target/*.jar
+1.4 => xstream-hibernate/target/*.jar
+1.4 => xstream-benchmark/target/*.jar
+1.4 => xstream-distribution/target/libs/*.zip
 
