@@ -2,5 +2,6 @@
 ; For building XStream against Java 1.4
 ;
 
+- => 
 1.4 => xstream-distribution/target/libs/
 
