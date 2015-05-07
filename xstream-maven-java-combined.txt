@@ -1,0 +1,10 @@
+;
+; For building XStream against Java 1.4 with some newer classes for 1.5
+;
+
+1.4 => xstream-1.4.8.jar
+1.5 => xstream-1.4.8.jar!/com/thoughtworks/xstream/annotations
+1.5 => xstream-1.4.8.jar!/com/thoughtworks/xstream/converters/enums/
+1.5 => xstream-1.4.8.jar!/com/thoughtworks/xstream/mapper/Annotat
+1.5 => xstream-1.4.8.jar!/com/thoughtworks/xstream/mapper/Enum
+
