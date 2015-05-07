@@ -1,0 +1,5 @@
+;
+; Ensure everything at most Java 1.5
+;
+1.5 =>
+
