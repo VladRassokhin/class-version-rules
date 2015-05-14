@@ -8,3 +8,9 @@
 1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Annotat
 1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Enum
 
+; From pom.xml 1.4 profile exclude rules
+1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/basic/StringBuilder
+1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/basic/UUID
+1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/core/util/Types
+1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/io/xml/JDom2
+1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Annotation
