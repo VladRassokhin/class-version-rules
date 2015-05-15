@@ -14,3 +14,6 @@
 1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Annotation
 1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Enum
 1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/extended/StackTraceElementFactory15
+
+1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/reflection/LambdaConverter
+1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/LambdaMapper
