@@ -1,0 +1,8 @@
+;
+; For XStream official release version (1.5 based + some 1.8 classes)
+;
+- =>
+1.5 => xstream-1.4.8.jar
+1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/reflection/LambdaConverter
+1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/LambdaMapper
+
