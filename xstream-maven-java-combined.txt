@@ -14,6 +14,7 @@
 1.5 => *!com/thoughtworks/xstream/mapper/Annotation
 1.5 => *!com/thoughtworks/xstream/mapper/Enum
 1.5 => *!com/thoughtworks/xstream/converters/extended/StackTraceElementFactory15
+1.5 => *!com/thoughtworks/xstream/converters/extended/PathConverter
 
 1.8 => *!com/thoughtworks/xstream/converters/reflection/LambdaConverter
 1.8 => *!com/thoughtworks/xstream/mapper/LambdaMapper
