@@ -2,18 +2,18 @@
 ; For building XStream against Java 1.4 with some newer classes for 1.5
 ;
 
-1.4 => xstream-1.4.8.jar
+1.4 => xstream-*.jar
 
 ; From pom.xml 1.4 profile exclude rules
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/annotations
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/enums/
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/basic/StringBuilder
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/basic/UUID
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/core/util/Types
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/io/xml/JDom2
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Annotation
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/Enum
-1.5 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/extended/StackTraceElementFactory15
+1.5 => xstream-*.jar!com/thoughtworks/xstream/annotations
+1.5 => xstream-*.jar!com/thoughtworks/xstream/converters/enums/
+1.5 => xstream-*.jar!com/thoughtworks/xstream/converters/basic/StringBuilder
+1.5 => xstream-*.jar!com/thoughtworks/xstream/converters/basic/UUID
+1.5 => xstream-*.jar!com/thoughtworks/xstream/core/util/Types
+1.5 => xstream-*.jar!com/thoughtworks/xstream/io/xml/JDom2
+1.5 => xstream-*.jar!com/thoughtworks/xstream/mapper/Annotation
+1.5 => xstream-*.jar!com/thoughtworks/xstream/mapper/Enum
+1.5 => xstream-*.jar!com/thoughtworks/xstream/converters/extended/StackTraceElementFactory15
 
-1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/converters/reflection/LambdaConverter
-1.8 => xstream-1.4.8.jar!com/thoughtworks/xstream/mapper/LambdaMapper
+1.8 => xstream-*.jar!com/thoughtworks/xstream/converters/reflection/LambdaConverter
+1.8 => xstream-*.jar!com/thoughtworks/xstream/mapper/LambdaMapper
