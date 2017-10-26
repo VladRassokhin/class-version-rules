@@ -20,6 +20,7 @@
 1.8 => *!com/thoughtworks/xstream/mapper/LambdaMapper
 
 ; XStream 1.4.[9,10]
+1.8 => *!com/thoughtworks/xstream/converters/time/AbstractChronoLocalDateConverter
 1.8 => *!com/thoughtworks/xstream/converters/time/ChronologyConverter
 1.8 => *!com/thoughtworks/xstream/converters/time/DurationConverter
 1.8 => *!com/thoughtworks/xstream/converters/time/HijrahDateConverter
