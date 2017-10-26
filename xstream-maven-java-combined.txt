@@ -18,3 +18,29 @@
 
 1.8 => *!com/thoughtworks/xstream/converters/reflection/LambdaConverter
 1.8 => *!com/thoughtworks/xstream/mapper/LambdaMapper
+
+; XStream 1.4.[9,10]
+1.8 => *!com/thoughtworks/xstream/converters/time/ChronologyConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/DurationConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/HijrahDateConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/JapaneseDateConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/JapaneseEraConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/InstantConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/LocalDateConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/LocalDateTimeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/LocalTimeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/MinguoDateConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/MonthDayConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/OffsetDateTimeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/OffsetTimeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/PeriodConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/SystemClockConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/ThaiBuddhistDateConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/ValueRangeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/WeekFieldsConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/YearConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/YearMonthConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/ZonedDateTimeConverter
+1.8 => *!com/thoughtworks/xstream/converters/time/ZoneIdConverter
+1.8 => *!com/thoughtworks/xstream/converters/extended/PathConverter
+1.8 => *!com/thoughtworks/xstream/core/util/ISO8601JavaTimeConverter.class
