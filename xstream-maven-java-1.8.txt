@@ -4,6 +4,4 @@
 
 ; Should be run in xstream-distribution/target/libs
 1.8 => xstream-*.jar
-1.8 => xstream-benchmark-*.jar
-1.8 => xstream-hibernate-*.jar
 
